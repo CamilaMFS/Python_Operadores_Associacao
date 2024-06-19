@@ -1,0 +1,2 @@
+# Python_Operadores_Associacao
+Python_Operadores_Associacao
